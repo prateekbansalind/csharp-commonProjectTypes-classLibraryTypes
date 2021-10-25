@@ -1,0 +1,6 @@
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\Learning\c_sharp\iamtimcorey\7_commonProejctTypes\00-class-library\ClassLibraryProjectTypeDemoApp\FrameworkLib\bin\Debug\FrameworkLib.dll
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\Learning\c_sharp\iamtimcorey\7_commonProejctTypes\00-class-library\ClassLibraryProjectTypeDemoApp\FrameworkLib\bin\Debug\FrameworkLib.pdb
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\Learning\c_sharp\iamtimcorey\7_commonProejctTypes\00-class-library\ClassLibraryProjectTypeDemoApp\FrameworkLib\obj\Debug\FrameworkLib.csproj.AssemblyReference.cache
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\Learning\c_sharp\iamtimcorey\7_commonProejctTypes\00-class-library\ClassLibraryProjectTypeDemoApp\FrameworkLib\obj\Debug\FrameworkLib.csproj.CoreCompileInputs.cache
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\Learning\c_sharp\iamtimcorey\7_commonProejctTypes\00-class-library\ClassLibraryProjectTypeDemoApp\FrameworkLib\obj\Debug\FrameworkLib.dll
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\Learning\c_sharp\iamtimcorey\7_commonProejctTypes\00-class-library\ClassLibraryProjectTypeDemoApp\FrameworkLib\obj\Debug\FrameworkLib.pdb
